@@ -15,7 +15,7 @@ DEFCONFIG="hells_defconfig"
 
 # Kernel Details
 BASE_HC_VER="hC"
-VER="-b9-M-old_wi-fi"
+VER="-b11-M-old_wi-fi"
 HC_VER="$BASE_HC_VER$VER"
 
 # Vars
